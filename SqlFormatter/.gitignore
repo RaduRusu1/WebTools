@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.build/
+.env*
+.yarn/
+*.tsbuildinfo
+next-env.d.ts
